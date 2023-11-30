@@ -1,5 +1,10 @@
 # sms
 Send Message Assistant
+### 下载路径
+进入sms项目中，如图所示：
+
+![image](https://github.com/Joyamon/sms/assets/89118486/53d63ea5-b69a-412d-843d-17ebd14bf2d4)
+
 ### 消息聊天助手
 #### 下载好sendMessage.exe程序后，双击打开后如图所示：
 ![image](https://github.com/Joyamon/sms/assets/89118486/41d9e968-4761-4c86-b9e5-4c23aace8fd9)
